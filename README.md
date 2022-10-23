@@ -46,3 +46,11 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
+-----
+
+<h2> ***** Minha versão ***** </h2>
+
+### 💻 Visualizar projeto concluído:
+
+[Versão feita por Larissa:] (https://lari-explorer-lab-01.netlify.app/)
